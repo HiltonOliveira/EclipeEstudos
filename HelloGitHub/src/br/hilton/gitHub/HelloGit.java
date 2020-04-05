@@ -16,6 +16,7 @@ public class HelloGit {
 		// TODO Auto-generated method stub
 
 		System.out.println("Feito primeiro GitPush");
+		System.out.println("Feito outra linha GitPull");
 		
 		
 	}
