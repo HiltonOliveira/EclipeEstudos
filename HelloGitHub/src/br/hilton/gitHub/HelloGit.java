@@ -16,9 +16,7 @@ public class HelloGit {
 		// TODO Auto-generated method stub
 
 		System.out.println("Feito primeiro GitPush");
-		System.out.println("Feito Segundo GitPush");
-		System.out.println("Feito terceiro GitPush");
-		System.out.println("Feito quarto GitPush");
+		
 		
 	}
 
