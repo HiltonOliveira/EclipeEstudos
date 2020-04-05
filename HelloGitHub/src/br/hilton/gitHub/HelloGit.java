@@ -17,6 +17,7 @@ public class HelloGit {
 
 		System.out.println("Feito primeiro GitPush");
 		System.out.println("Feito Segundo GitPush");
+		System.out.println("Feito terceiro GitPush");
 		
 		
 	}
