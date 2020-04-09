@@ -7,7 +7,7 @@ package br.hilton.gitHub;
  * @author Hilton
  *
  */
-public class HelloGit {
+public class Aula2 {
 
 	/**
 	 * @param args
